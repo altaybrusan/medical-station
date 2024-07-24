@@ -1,0 +1,1 @@
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg\libijg12\x64\_DEBUG\libijg12.lib

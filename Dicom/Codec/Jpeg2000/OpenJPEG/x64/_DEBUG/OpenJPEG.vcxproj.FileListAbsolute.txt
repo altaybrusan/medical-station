@@ -1,0 +1,1 @@
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\OpenJPEG\x64\_DEBUG\OpenJPEG.lib

@@ -1,0 +1,11 @@
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\Dicom.Jpeg2000.vcxproj.AssemblyReference.cache
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\Dicom.Jpeg2000.vcxproj.CopyComplete
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\ClearCanvas.Dicom.Codec.Jpeg2000.dll
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\ClearCanvas.Common.dll
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\ClearCanvas.Dicom.dll
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\nunit.framework.dll
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\log4net.dll
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\ClearCanvas.Common.pdb
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\ClearCanvas.Common.dll.config
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\ClearCanvas.Dicom.pdb
+D:\projects\cc\clearcanvas\Dicom\Codec\Jpeg2000\x64\_DEBUG\ClearCanvas.Dicom.dll.config
