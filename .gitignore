@@ -62,3 +62,7 @@ ImageServer/Web/Application/Pages/Help/UsersGuide/*
 
 # Files for Github integration
 ReferencedAssemblies
+/ImageViewer/.vs/ImageViewer
+/Dicom/.vs/ClearCanvas.Dicom
+/ImageServer/.vs/ImageServer/FileContentIndex
+/ImageServer/.vs/ImageServer/v17/TestStore/0
